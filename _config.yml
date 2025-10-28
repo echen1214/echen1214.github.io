@@ -23,7 +23,7 @@ repository               : "echen1214/echen1214.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   name             : "Eric Chen"
   pronouns         : "he/him"  
   bio              : "AI/ML for Chemistry; STEM Outreach"
