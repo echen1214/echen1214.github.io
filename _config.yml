@@ -23,7 +23,7 @@ repository               : "echen1214/echen1214.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "images/_DSC4807.jpg"
   name             : "Eric Chen"
   pronouns         : "he/him"  
   bio              : "AI/ML for Chemistry; STEM Outreach"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : eric-chen-10
+  linkedin         : "eric-chen-10"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
