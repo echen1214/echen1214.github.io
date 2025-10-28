@@ -13,7 +13,7 @@ title                    : "Eric Chen"
 title_separator          : "-"
 name                     : &name "Eric Chen"
 description              : &description "Eric Chen's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://echen1214.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://echen1214.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "echen1214/echen1214.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Eric Chen"
   pronouns         : "he/him"  
-  bio              : "AI/ML for Science; STEM Outreach"
+  bio              : "AI/ML for Chemistry; STEM Outreach"
   location         : "New York, NY
   employer         : "New York University"
   uri              : # URL
