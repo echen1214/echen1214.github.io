@@ -23,11 +23,11 @@ repository               : "echen1214/echen1214.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/_DSC4807.jpg"
+  avatar           : "eric_prof.jpg"
   name             : "Eric Chen"
   pronouns         : "he/him"  
   bio              : "AI/ML for Chemistry; STEM Outreach"
-  location         : "New York, NY
+  location         : "New York, NY"
   employer         : "New York University"
   uri              : # URL
   email            : "echen1214@gmail.com" 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "123ric.bsky.app" # Replace this with you Bluesky username
+  bluesky          : "123ric.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
