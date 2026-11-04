@@ -5,7 +5,7 @@ type: "Poster"
 permalink: /talks/2025-06-26-poster-1
 venue: "AI4Chemistry-New York, NY; Gordon Research Conference-Portland, ME; MLDD Broad Institute Symposium-Cambridge, MA"
 date: 2025-06-26
-slidesurl: /files/grs.pdf
+slidesurl: /files/GRS.pdf
 posterurl: /files/fine_tuning_diffdock_poster.pdf
 # location: "New York, NY; Portland, ME; Cambridge, MA "
 ---

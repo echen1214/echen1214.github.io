@@ -13,7 +13,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Chemistry, New York University, Sep 2019–Aug 2025
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * B.S. in Biochemistry, Tufts University, Sep 2015–May 2019
 
 Select work experience
@@ -31,16 +30,6 @@ Select work experience
     * De novo structure-based drug design of peptide macrocycle–collagen interactions by characterizing structural ensembles
     * Supervisor: Yu-Shan Lin
 
-<!--   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -53,12 +42,15 @@ Talks/Conferences/Posters
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+{% comment %}
+Re-enable this section once _teaching/ has real entries.
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+{% endcomment %}
+
 DEI & Outreach/Leadership
 ======
 * Aug 2025–Present: Gotham Data Clinic: Volunteer Program Assistant	
